@@ -1,0 +1,89 @@
+# ============================================================
+
+# Student Performance Data Analysis
+
+# Project Dependencies
+
+# ============================================================
+
+#
+
+# Python Version:
+
+# Python 3.10 or higher
+
+#
+
+# Development Environment:
+
+# Visual Studio Code (VS Code)
+
+#
+
+# Install all dependencies using:
+
+# pip install -r requirements.txt
+
+# ============================================================
+
+# ------------------------------------------------------------
+
+# Data Analysis
+
+# ------------------------------------------------------------
+
+pandas
+
+# ------------------------------------------------------------
+
+# Data Visualization
+
+# ------------------------------------------------------------
+
+matplotlib
+
+# ============================================================
+
+# Environment Information
+
+# ============================================================
+
+#
+
+# Python:
+
+# Version 3.10 or higher
+
+#
+
+# IDE:
+
+# Visual Studio Code
+
+#
+
+# Virtual Environment:
+
+# python -m venv venv
+
+#
+
+# Windows Activation:
+
+# venv\Scripts\activate
+
+#
+
+# Install Dependencies:
+
+# pip install -r requirements.txt
+
+#
+
+# Run Project:
+
+# python student_performance_analysis.py
+
+#
+
+# ============================================================
